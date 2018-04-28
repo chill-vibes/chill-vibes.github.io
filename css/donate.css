@@ -1,9 +1,6 @@
 html,
 body {
   font-family: "Kanit", sans-serif;
-  min-height: 100vh;
-  min-width: 100vw;
-  background: #fcfcfc;
 }
 
 .header {
